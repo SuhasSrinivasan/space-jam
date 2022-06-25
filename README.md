@@ -1,4 +1,4 @@
-# space-jam ☄️
+# Space Jam ☄️
 #### A tool to minimize storage utilization for omics data.
 
 While data storage needs are ever increasing, there are certain steps that can be taken to efficiently store and transfer existing data.
