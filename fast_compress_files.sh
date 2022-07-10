@@ -14,7 +14,7 @@ fi
 
 find "$1" -type f -not -path '*python*'                         \
 			       '(' -iname '*.adj'		\
-			       	-o -iname '*.bai'			\
+			    -o -iname '*.bai'			\
 				-o -iname '*.bed'			\
 				-o -iname '*.bedGraph' 		\
 				-o -iname '*.broadPeak' 	\
