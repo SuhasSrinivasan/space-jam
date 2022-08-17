@@ -19,7 +19,8 @@ Ubuntu: `$ sudo apt install pigz`
 RHEL/Fedora/CentOS: `sudo dnf install pigz`
 
 ### pigz macOS Installation
-To install pigz on Intel or Apple Silicon (M1 and newer) Macs, first install [Homebrew](https://brew.sh) and then `$ brew install pigz`.
+To install pigz on Intel or Apple Silicon (M1 and newer) Macs, first install [Homebrew](https://brew.sh) and then  
+`$ brew install pigz`.
 
 ## Usage
 To use the scripts, copy them to your home directory.  
